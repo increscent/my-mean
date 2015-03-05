@@ -9,3 +9,13 @@ var ticket = {
 	blue: 9,
 	purple: [3, 8, 2, 5]
 };
+
+
+your function should work with this one too:
+
+var ticket = {
+	penguin: 13,
+	vulture: 7,
+	robin: 16,
+	velociraptor: [23, 28, 22, 25]
+};
